@@ -1,0 +1,48 @@
+.bg-dark{
+    background-color: #BB3A3A!important;
+}
+h1{
+    color:red;
+}
+.nav-link{
+    padding-right:40px !important;
+    padding-left: 40px !important;
+}
+.position{
+    padding-right:48px !important;
+    padding-left: 48px !important;
+}
+.img-1{
+    position: relative;
+}
+.anh-1{
+       width: 520px;
+       height: 345px;
+       position: absolute;
+    top: -32px;
+    left: 51px;
+}
+.top-1{
+padding-top: 100px;
+}
+.card img{
+    width: 281px;
+    height: 160px;
+}
+.red{
+    color: red;
+}
+/*.card{*/
+/*    width: calc(100%/4 - 20px);*/
+/*}*/
+.card{
+    position: relative;
+}
+.danh-muc{
+    position: absolute;
+    top:6px;
+    right: 6px;
+    padding: 3px 10px;
+    background-color: red;
+    border-radius: 3px;
+}
